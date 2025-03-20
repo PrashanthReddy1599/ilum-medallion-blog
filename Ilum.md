@@ -1,4 +1,4 @@
-# Building Scalable Data Pipelines with Ilum: A Game-Changer for Data Engineers
+# Building Scalable Data Pipelines with Ilum: Beyond Delta Lakehouse
 
 ## Introduction
 In the ever-evolving field of data engineering, building scalable, efficient, and observable data pipelines is crucial for businesses.
